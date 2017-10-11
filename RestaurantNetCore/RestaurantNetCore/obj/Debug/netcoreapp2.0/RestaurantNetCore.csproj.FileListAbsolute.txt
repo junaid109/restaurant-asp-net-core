@@ -1,0 +1,11 @@
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\bin\Debug\netcoreapp2.0\RestaurantNetCore.deps.json
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\bin\Debug\netcoreapp2.0\RestaurantNetCore.runtimeconfig.json
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\bin\Debug\netcoreapp2.0\RestaurantNetCore.runtimeconfig.dev.json
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\bin\Debug\netcoreapp2.0\RestaurantNetCore.dll
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\bin\Debug\netcoreapp2.0\RestaurantNetCore.pdb
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\obj\Debug\netcoreapp2.0\RestaurantNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\obj\Debug\netcoreapp2.0\RestaurantNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\obj\Debug\netcoreapp2.0\RestaurantNetCore.AssemblyInfoInputs.cache
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\obj\Debug\netcoreapp2.0\RestaurantNetCore.AssemblyInfo.cs
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\obj\Debug\netcoreapp2.0\RestaurantNetCore.dll
+C:\Users\Junaid Malik\Documents\Github Projects\restaurant-asp-net-core\RestaurantNetCore\RestaurantNetCore\obj\Debug\netcoreapp2.0\RestaurantNetCore.pdb
