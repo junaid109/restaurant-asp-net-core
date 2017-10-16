@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D8989638-D60B-42BB-9CD4-F0793C63F56B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood", "src\OdeToFood\OdeToFood.csproj", "{1A79287C-191C-461F-8D23-C2BDBDA28C30}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE8CFEEB-C110-4091-A5C9-29CE645C8707}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "OdeToFood", "src\OdeToFood\OdeToFood.xproj", "{1A79287C-191C-461F-8D23-C2BDBDA28C30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,8 +28,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1A79287C-191C-461F-8D23-C2BDBDA28C30} = {D8989638-D60B-42BB-9CD4-F0793C63F56B}
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DD7CFF7D-BE36-44C4-8897-B9232ACC2A05}
 	EndGlobalSection
 EndGlobal

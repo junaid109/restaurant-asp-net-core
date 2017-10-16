@@ -4,8 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace RestaurantNetCore
+namespace OdeToFood
 {
+
+    public interface IGreeter
+    {
+        string GetGreeting();
+    }
+
     public class Greeter : IGreeter
     {
         private string _greeting;
@@ -15,8 +21,9 @@ namespace RestaurantNetCore
             _greeting = configuration["Greeting"];
         }
 
-        public string GetGreeting() => _greeting;
+        public string GetGreeting()
+        {
+            return _greeting;
+        }
     }
-
-
 }
